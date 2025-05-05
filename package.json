@@ -38,7 +38,7 @@
     "@types/mime-types": "^2.1.4",
     "@types/node": "^20.12.7",
     "ejs": "^3.1.10",
-    "rollup": "^3.0.0",
+    "rollup": "^4.0.0",
     "mime-types": "^2.1.35",
     "tsup": "^8.0.2",
     "typescript": "^5.4.5"
